@@ -18,11 +18,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [github](https://github.com/dasunpamod);
+- 👨🏽‍💻 I’m currently working on [github](https://github.com/teamvpn);
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/dasun_pamod
+- 📫 How to reach me: https://t.me/dev_vpn
 ;
 
 **Languages and Tools:** 
